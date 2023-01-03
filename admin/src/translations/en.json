@@ -1,1 +1,6 @@
-{}
+{
+  "url.label": "URL",
+  "url.description": "Text field with URL validation",
+  "url.admin.button.new-tab": "Open Link in New Tab",
+  "url.admin.error.url-validation": "This must be a valid URL."
+}

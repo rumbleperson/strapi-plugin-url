@@ -9,7 +9,14 @@
     "displayName": "Url"
   },
   "peerDependencies": {
-    "@strapi/strapi": "^4.5.0"
+    "@strapi/design-system": "^1.4.1",
+    "@strapi/helper-plugin": "^4.5.0",
+    "@strapi/icons": "^1.4.1",
+    "@strapi/strapi": "^4.5.0",
+    "@strapi/utils": "^4.5.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "styled-components": "^5.3.3"
   },
   "dependencies": {},
   "author": {
@@ -24,5 +31,9 @@
     "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rumbleperson/strapi-plugin-url.git"
+  }
 }
